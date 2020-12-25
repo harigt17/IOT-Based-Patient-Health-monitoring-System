@@ -1,0 +1,8 @@
+download arduino software
+
+link:https://www.arduino.cc/en/Main.Software
+
+
+for thingsspeak
+
+https://thingspeak.com
